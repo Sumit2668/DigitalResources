@@ -4,7 +4,7 @@
         {
             "Title": "Problems",
             "PDRLangiage": {
-                "ProblemComplaxity": "Number and complexity of the problems",
+                "ProblemComplaxity": "\"Number and complexity of the problems\"",
                 "NoProblemComplaxity": [
                     {
                         "ProblemComplaxity": "• Acute vs chronic (>1 year)"
@@ -34,7 +34,7 @@
         {
             "Title": "Data",
             "PDRLangiage": {
-                "ProblemComplaxity": "Amount and complexity of data reviewed",
+                "ProblemComplaxity": "\"Amount and complexity of data reviewed\" ",
                 "NoProblemComplaxity": [
                     {
                         "ProblemComplaxity": "• Separate document sources (counts as 1)"
@@ -55,7 +55,7 @@
         {
             "Title": "Risk",
             "PDRLangiage": {
-                "ProblemComplaxity": "Risk of complication and/or morbidity or mortality",
+                "ProblemComplaxity": "\"Risk of complication and/or morbidity or mortality\"",
                 "NoProblemComplaxity": [
                     {
                         "ProblemComplaxity": "• Risk of complication from tests and/or treatments"

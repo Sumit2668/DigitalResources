@@ -5,60 +5,60 @@
             "QuestionType": "Questions about PICO",
             "Expanded": false,
             "Contact": {
-                "Title": null,
+                "Title": "",
                 "Name": "",
-                "Name1": null,
+                "Name1": "",
                 "Designation": "",
                 "OfficePhone": "",
                 "CellPhone": "",
                 "Email": "pico@vohraphysicians.com",
-                "Email1": null,
-                "Fax": null
+                "Email1": "",
+                "Fax": ""
             }
         },
         {
             "QuestionType": "Questions about SSG",
             "Expanded": false,
             "Contact": {
-                "Title": null,
+                "Title": "",
                 "Name": "Reina Suescun",
                 "Name1": "Jonathan Ramirez",
-                "Designation": null,
-                "OfficePhone": null,
-                "CellPhone": null,
+                "Designation": "",
+                "OfficePhone": "",
+                "CellPhone": "",
                 "Email": ": jramirez@vohraphysicians.com",
                 "Email1": ": rsuescun@vohraphysicians.com",
-                "Fax": null
+                "Fax": ""
             }
         },
         {
             "QuestionType": "Questions about DDP",
             "Expanded": false,
             "Contact": {
-                "Title": null,
+                "Title": "",
                 "Name": "",
-                "Name1": null,
+                "Name1": "",
                 "Designation": "",
                 "OfficePhone": "",
                 "CellPhone": "",
                 "Email": "dressings@vohraphysicians.com",
-                "Email1": null,
-                "Fax": null
+                "Email1": "",
+                "Fax": ""
             }
         },
         {
             "QuestionType": "Questions about EMR",
             "Expanded": false,
             "Contact": {
-                "Title": null,
+                "Title": "",
                 "Name": "",
-                "Name1": null,
+                "Name1": "",
                 "Designation": "",
                 "OfficePhone": "",
                 "CellPhone": "",
                 "Email": "emrissues@vohraphysicians.com",
-                "Email1": null,
-                "Fax": null
+                "Email1": "",
+                "Fax": ""
             }
         },
         {
@@ -80,44 +80,44 @@
             "QuestionType": "Questions about Portal Access",
             "Expanded": false,
             "Contact": {
-                "Title": null,
+                "Title": "",
                 "Name": "",
-                "Name1": null,
+                "Name1": "",
                 "Designation": "",
                 "OfficePhone": "",
                 "CellPhone": "954-678-6223",
                 "Email": "portalsupport@vohraphysicians.com",
-                "Email1": null,
-                "Fax": null
+                "Email1": "",
+                "Fax": ""
             }
         },
         {
             "QuestionType": "Questions about PCC Integrations",
             "Expanded": false,
             "Contact": {
-                "Title": null,
+                "Title": "",
                 "Name": "",
-                "Name1": null,
+                "Name1": "",
                 "Designation": "",
                 "OfficePhone": "",
                 "CellPhone": "",
                 "Email": "vohraVlP@vohraphysicians.com",
-                "Email1": null,
-                "Fax": null
+                "Email1": "",
+                "Fax": ""
             }
         },
         {
             "QuestionType": "Questions about Face Sheet",
             "Expanded": false,
             "Contact": {
-                "Title": null,
+                "Title": "",
                 "Name": "",
-                "Name1": null,
+                "Name1": "",
                 "Designation": "",
                 "OfficePhone": "",
-                "CellPhone": null,
+                "CellPhone": "",
                 "Email": "casemanagers@vohraphysicians.com",
-                "Email1": null,
+                "Email1": "",
                 "Fax": "978-244-8173"
             }
         },
@@ -125,14 +125,14 @@
             "QuestionType": "Questions about Billing",
             "Expanded": false,
             "Contact": {
-                "Title": null,
+                "Title": "",
                 "Name": "",
-                "Name1": null,
+                "Name1": "",
                 "Designation": "",
                 "OfficePhone": "954-399-4646",
-                "CellPhone": null,
+                "CellPhone": "",
                 "Email": "billing@vohraphysicians.com",
-                "Email1": null,
+                "Email1": "",
                 "Fax": "978-967-8032"
             }
         },
@@ -140,30 +140,30 @@
             "QuestionType": "Questions about Quanum",
             "Expanded": false,
             "Contact": {
-                "Title": null,
+                "Title": "",
                 "Name": "Jamie Nobles",
-                "Name1": null,
+                "Name1": "",
                 "Designation": "(formerly Ameripath/Dermpath)",
                 "OfficePhone": "",
                 "CellPhone": "813-624-2331",
                 "Email": "Jamie.a.nobles@dermpathdiagnostics.com",
-                "Email1": null,
-                "Fax": null
+                "Email1": "",
+                "Fax": ""
             }
         },
         {
             "QuestionType": "Questions about Supplies",
             "Expanded": false,
             "Contact": {
-                "Title": null,
+                "Title": "",
                 "Name": "",
-                "Name1": null,
+                "Name1": "",
                 "Designation": "",
                 "OfficePhone": "",
-                "CellPhone": null,
+                "CellPhone": "",
                 "Email": "medsupplies@vohraphysicians.com",
                 "Email1": "Tom.Davidson@mckesson.com",
-                "Fax": null
+                "Fax": ""
             }
         },
         {
@@ -185,15 +185,15 @@
             "QuestionType": "Human Resources Questions",
             "Expanded": false,
             "Contact": {
-                "Title": null,
+                "Title": "",
                 "Name": "Elia Cueva",
-                "Name1": null,
+                "Name1": "",
                 "Designation": "",
                 "OfficePhone": "",
                 "CellPhone": "",
                 "Email": "ecueva@vohraphysicians.com",
-                "Email1": null,
-                "Fax": null
+                "Email1": "",
+                "Fax": ""
             }
         }
     ]

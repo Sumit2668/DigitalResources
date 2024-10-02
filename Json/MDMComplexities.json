@@ -5,8 +5,8 @@
             "Title": "Option 1",
             "Expanded": false,
             "Review": "Coordination with qualified health professional",
-            "Review1": null,
-            "Review2": null
+            "Review1": "",
+            "Review2": ""
         },
         {
             "Title": "Option 2",
@@ -33,15 +33,15 @@
             "Title": "Option 4",
             "Expanded": false,
             "Review": "Review SNF record",
-            "Review1": "Order 2 independent/u nique tests",
-            "Review2": null
+            "Review1": "Order 2 independent nique tests",
+            "Review2": ""
         },
         {
             "Title": "Option 6",
             "Expanded": false,
-            "Review": "Order 3 independent/unique tests",
-            "Review1": null,
-            "Review2": null
+            "Review": "Order 3 independent nique tests",
+            "Review1": "",
+            "Review2": ""
         }
     ]
 }

@@ -90,13 +90,13 @@
                     "DressingCategory": "Collagen",
                     "Exudate": "Any",
                     "Frequency": "Q 2 Day",
-                    "AdditionalInfo": "Expensive. Only on granulated beds. Comes in gel, powder, combination w alginate, etc, Best if not changed daily."
+                    "AdditionalInfo": "Expensive. Only on granulated beds. Comes in gel, powder, combination w alginate, etc. Best if not changed daily."
                 },
                 {
                     "DressingCategory": "Hydrofera Blue",
                     "Exudate": "Mod-Heavy",
                     "Frequency": "2x/week",
-                    "AdditionalInfo": "Expensive. Color turns white when product needs to be changed Tltrate change frequency to color."
+                    "AdditionalInfo": "Expensive. Color turns white when product needs to be changed Tirate change frequency to color."
                 },
                 {
                     "DressingCategory": "Transparent Film",
@@ -105,10 +105,10 @@
                     "AdditionalInfo": "This will tear fragile skin. Most facilities do not stock it."
                 },
                 {
-                    "DressingCategory": "Wetto dry",
+                    "DressingCategory": "Wet to dry",
                     "Exudate": "DO NOT USE",
                     "Frequency": "",
-                    "AdditionalInfo": "Was standard of care in 1970, this iS not 1970."
+                    "AdditionalInfo": "Was standard of care in 1970, this is not 1970."
                 }
             ],
             "Expanded": false
