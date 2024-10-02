@@ -24,7 +24,7 @@
             "EMBillData": {
                 "Problem": "2 chronic stable conditions Exacerbated/progressed (deteriorated) New and uncertain Complicated With systemic symptoms",
                 "DataReviewed": "3 \"items\" (or 2 + independent historian) OR Coordination with separate qualified health professional",
-                "LvlRisk": "Moderate Risk \n- Prescription Drug (with side effect profile) \n- Minor Surgery consideration - Refusal of debridement"
+                "LvlRisk": "Moderate Risk \n- Prescription Drug (with side effect profile) \n- Minor Surgery consideration \n- Refusal of debridement"
             },
             "Expanded": false
         },
@@ -33,7 +33,7 @@
             "EMBillData": {
                 "Problem": "Severe xacerbation/progression (deteriorated) Poses threat to life or function",
                 "DataReviewed": "2 of the 3 groups from Moderate options",
-                "LvlRisk": "High \n-Drugs w/ toxicity monitoring \n-Escalation of level of care -DNR or de-escalation decision"
+                "LvlRisk": "High \n-Drugs w/ toxicity monitoring \n-Escalation of level of care \n-DNR or de-escalation decision"
             },
             "Expanded": false
         }
