@@ -1,0 +1,41 @@
+{
+    "QuickGuide": null,
+    "ResourceMenu": [
+        {
+            "PDFLink": "https://github.com/VohraPhysicians/Vohra-Main-Mobile-App/blob/Sprint-66/VohraDigitalResources/PDF/CommonDressing.pdf",
+            "MenuLink": "https://raw.githubusercontent.com/VohraPhysicians/Vohra-Main-Mobile-App/refs/heads/Sprint-66/VohraDigitalResources/Json/CommonlyUsedDressing.json?token=GHSAT0AAAAAACX7WY4ZLD7G4OIY7R6TT5OEZX4LEXQ",
+            "Title": "Common Dressing Products",
+            "QuickGuide": "Guid to essential wound care materials"
+        },
+        {
+            "MenuLink": "https://raw.githubusercontent.com/VohraPhysicians/Vohra-Main-Mobile-App/refs/heads/Sprint-66/VohraDigitalResources/Json/EMBilling.json?token=GHSAT0AAAAAACX7WY4YMGROHK2JCCJW6KLSZX4LFOQ",
+            "PDFLink": "https://github.com/VohraPhysicians/Vohra-Main-Mobile-App/blob/Sprint-66/VohraDigitalResources/PDF/EMBilling.pdf",
+            "Title": "EM Billing Overview",
+            "QuickGuide": "Key insights into Evalution and Management billing"
+        },
+        {
+            "PDFLink": "https://github.com/VohraPhysicians/Vohra-Main-Mobile-App/blob/Sprint-66/VohraDigitalResources/PDF/MDMComplexities.pdf",
+            "MenuLink": "https://raw.githubusercontent.com/VohraPhysicians/Vohra-Main-Mobile-App/refs/heads/Sprint-66/VohraDigitalResources/Json/MDMComplexities.json?token=GHSAT0AAAAAACX7WY4ZLD7G4OIY7R6TT5OEZX4LEXQ",
+            "Title": "Examples of MDM Complexities",
+            "QuickGuide": "Examples of MDM complexity activities"
+        },
+        {
+            "PDFLink": "https://github.com/VohraPhysicians/Vohra-Main-Mobile-App/blob/Sprint-66/VohraDigitalResources/PDF/PDRLanguage.pdf",
+            "MenuLink": "https://raw.githubusercontent.com/VohraPhysicians/Vohra-Main-Mobile-App/refs/heads/Sprint-66/VohraDigitalResources/Json/PDRLanguage.json?token=GHSAT0AAAAAACX7WY4YMGROHK2JCCJW6KLSZX4LFOQ",
+            "Title": "PDR Language and Determinants",
+            "QuickGuide": "Overview of Problems, Data and Risk"
+        },
+        {
+            "PDFLink": "https://github.com/VohraPhysicians/Vohra-Main-Mobile-App/blob/Sprint-66/VohraDigitalResources/PDF/RiskElements.pdf",
+            "MenuLink": "https://raw.githubusercontent.com/VohraPhysicians/Vohra-Main-Mobile-App/refs/heads/Sprint-66/VohraDigitalResources/Json/RiskElements.json?token=GHSAT0AAAAAACX7WY4ZLD7G4OIY7R6TT5OEZX4LEXQ",
+            "Title": "Risk Elements",
+            "QuickGuide": "Comparing moderate vs high complexity risks"
+        },
+        {
+            "PDFLink": "https://github.com/VohraPhysicians/Vohra-Main-Mobile-App/blob/Sprint-66/VohraDigitalResources/PDF/UsefulContacts.pdf",
+            "MenuLink": "https://raw.githubusercontent.com/VohraPhysicians/Vohra-Main-Mobile-App/refs/heads/Sprint-66/VohraDigitalResources/Json/UsefulContacts.json?token=GHSAT0AAAAAACX7WY4YMGROHK2JCCJW6KLSZX4LFOQ",
+            "Title": "Useful Contacts",
+            "QuickGuide": "Contacts for key questions and concerns."
+        }
+    ]
+}

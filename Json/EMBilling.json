@@ -1,0 +1,41 @@
+{
+    "QuickGuide": "Key insights into Evalution and Management billing",
+    "EMBilling": [
+        {
+            "Condition": "Straightforward MDM",
+            "EMBillData": {
+                "Problem": "1 self-limited or minor problem (e.g. stage 1 PI)",
+                "DataReviewed": "Minimal or none",
+                "LvlRisk": "Minimal"
+            },
+            "Expanded": false
+        },
+        {
+            "Condition": "Low MDM",
+            "EMBillData": {
+                "Problem": "2 or more self-limited/minor 1 UnCompficated injury 1 stable (at goal) condition",
+                "DataReviewed": "2 \"items\" OR Independent historian",
+                "LvlRisk": "Low"
+            },
+            "Expanded": false
+        },
+        {
+            "Condition": "Moderate MDM",
+            "EMBillData": {
+                "Problem": "2 chronic stable conditions Exacerbated/progressed (deteriorated) New and uncertain Complicated With systemic symptoms",
+                "DataReviewed": "3 \"items\" (or 2 + independent historian) OR Coordination with separate qualified health professional",
+                "LvlRisk": "Moderate Risk - Prescription Drug (with side effect profile) - Minor Surgery consideration - Refusal of debridement"
+            },
+            "Expanded": false
+        },
+        {
+            "Condition": "High MDM",
+            "EMBillData": {
+                "Problem": "xacerbation/progression (deteriorated) Poses threat to life or function",
+                "DataReviewed": "2 of the 3 groups from Moderate options",
+                "LvlRisk": "High -Drugs w/ toxicity monitoring -Escalation of level of care -DNR or de-escalation decision"
+            },
+            "Expanded": false
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "QuickGuide": "Guid to essential wound care materials",
+    "CommonlyUsedDressing": [
+        {
+            "Condition": "IF WET: Mod-Heavy Draining Wounds - Primary Dressing",
+            "TreatmentPriority": null,
+            "Dressings": [
+                {
+                    "DressingCategory": "Alginate",
+                    "Exudate": "Mod-Heavy",
+                    "Frequency": "Q 1-2 Day",
+                    "AdditionalInfo": "If sticking, consider decreasing frequency or d/c. Comes in rope or sheet."
+                },
+                {
+                    "DressingCategory": "Hydrofiber",
+                    "Exudate": "Mod-Heavy",
+                    "Frequency": "Q 1-2 Day",
+                    "AdditionalInfo": "Sheet (no rope version)"
+                },
+                {
+                    "DressingCategory": "Mesalt",
+                    "Exudate": "Mod-Heavy",
+                    "Frequency": "Q Day",
+                    "AdditionalInfo": "Comes in small sheet or packing strip."
+                }
+            ],
+            "Expanded": false
+        },
+        {
+            "Condition": "IF WET: Mod-Heavy Draining Wounds - Secondary Dressing",
+            "TreatmentPriority": null,
+            "Dressings": [
+                {
+                    "DressingCategory": "Border gauze",
+                    "Exudate": "Mod",
+                    "Frequency": "Varies",
+                    "AdditionalInfo": ""
+                },
+                {
+                    "DressingCategory": "Foam",
+                    "Exudate": "Heavy",
+                    "Frequency": "CMS pays 3x/wkly",
+                    "AdditionalInfo": "If ordered daily, facility pays for the other four per week. Avoid daily whehever possible."
+                },
+                {
+                    "DressingCategory": "Specialty absorptive",
+                    "Exudate": "Heavy",
+                    "Frequency": "Q Day",
+                    "AdditionalInfo": "Only silicone absorptive on EMR that is reimbursed for daily use. Consider instead of foam."
+                }
+            ],
+            "Expanded": false
+        },
+        {
+            "Condition": "IF DRY: For Light Draining Wounds",
+            "TreatmentPriority": null,
+            "Dressings": [
+                {
+                    "DressingCategory": "Hydrogel",
+                    "Exudate": "Light-mod",
+                    "Frequency": "Q 1-2 Day",
+                    "AdditionalInfo": "Cover with border gauze or nonstick, can cover with xeroform 3x/wkly."
+                },
+                {
+                    "DressingCategory": "Honey gel",
+                    "Exudate": "Light-mod",
+                    "Frequency": "Q 1-2 Day",
+                    "AdditionalInfo": ""
+                },
+                {
+                    "DressingCategory": "Hydrocolloid",
+                    "Exudate": "Light-mod",
+                    "Frequency": "2-3x/wkly",
+                    "AdditionalInfo": ""
+                }
+            ],
+            "Expanded": false
+        },
+        {
+            "Condition": "Other Product",
+            "TreatmentPriority": null,
+            "Dressings": [
+                {
+                    "DressingCategory": "Collagenase(Santyl)",
+                    "Exudate": "Any",
+                    "Frequency": "Q Day",
+                    "AdditionalInfo": "Very expensive; use judiciously. On very wet wounds, can coverwith alginate before secondary dressing."
+                },
+                {
+                    "DressingCategory": "Collagen",
+                    "Exudate": "Any",
+                    "Frequency": "Q 2 Day",
+                    "AdditionalInfo": "Expensive. Only on granulated beds. Comes in gel, powder, combination w alginate, etc, Best if not changed daily."
+                },
+                {
+                    "DressingCategory": "Hydrofera Blue",
+                    "Exudate": "Mod-Heavy",
+                    "Frequency": "2x/week",
+                    "AdditionalInfo": "Expensive. Color turns white when product needs to be changed Tltrate change frequency to color."
+                },
+                {
+                    "DressingCategory": "Transparent Film",
+                    "Exudate": "DO NOT USE",
+                    "Frequency": "",
+                    "AdditionalInfo": "This will tear fragile skin. Most facilities do not stock it."
+                },
+                {
+                    "DressingCategory": "Wetto dry",
+                    "Exudate": "DO NOT USE",
+                    "Frequency": "",
+                    "AdditionalInfo": "Was standard of care in 1970, this iS not 1970."
+                }
+            ],
+            "Expanded": false
+        }
+    ]
+}

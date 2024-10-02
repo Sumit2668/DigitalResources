@@ -1,0 +1,29 @@
+{
+    "QuickGuide": null,
+    "ResourceMenu": [
+        {
+            "Title": "Common Dressing Products",
+            "QuickGuide": "Guid to essential wound care materials"
+        },
+        {
+            "Title": "EM Billing Overview",
+            "QuickGuide": "Key insights into Evalution and Management billing"
+        },
+        {
+            "Title": "Examples of MDM Complexities",
+            "QuickGuide": "Examples of MDM complexity activities"
+        },
+        {
+            "Title": "PDR Language and Determinants",
+            "QuickGuide": "Overview of Problems, Data and Risk"
+        },
+        {
+            "Title": "Risk Elements",
+            "QuickGuide": "Comparing moderate vs high complexity risks"
+        },
+        {
+            "Title": "Useful Contacts",
+            "QuickGuide": "Contacts for key questions and concerns."
+        }
+    ]
+}

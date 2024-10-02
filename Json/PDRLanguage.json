@@ -1,0 +1,77 @@
+{
+    "QuickGuide": "Overview of Problems, Data and Risk",
+    "PDRLanguage": [
+        {
+            "Title": "Problems",
+            "PDRLangiage": {
+                "ProblemComplaxity": "Number and complexity of the problems",
+                "NoProblemComplaxity": [
+                    {
+                        "ProblemComplaxity": "• Acute vs chronic (>1 year)"
+                    },
+                    {
+                        "ProblemComplaxity": "• Stable (at goal) vs exacerbated(not at goal)"
+                    },
+                    {
+                        "ProblemComplaxity": "• Complicated vs uncomplicated"
+                    },
+                    {
+                        "ProblemComplaxity": "• Self-limited"
+                    },
+                    {
+                        "ProblemComplaxity": "• Systemic"
+                    },
+                    {
+                        "ProblemComplaxity": "• Uncertain prognosis"
+                    },
+                    {
+                        "ProblemComplaxity": "• Threat to life or body function"
+                    }
+                ]
+            },
+            "Expanded": true
+        },
+        {
+            "Title": "Data",
+            "PDRLangiage": {
+                "ProblemComplaxity": "Amount and complexity of data reviewed",
+                "NoProblemComplaxity": [
+                    {
+                        "ProblemComplaxity": "• Separate document sources (counts as 1)"
+                    },
+                    {
+                        "ProblemComplaxity": "• Unique tests ordered (counts as 1)"
+                    },
+                    {
+                        "ProblemComplaxity": "• Independent Historians (e.g. family, caregivers, nurses) "
+                    },
+                    {
+                        "ProblemComplaxity": "• Qualifed Health Professional coordination (e.g. physicians, NP, PA, PT, OT)"
+                    }
+                ]
+            },
+            "Expanded": false
+        },
+        {
+            "Title": "Risk",
+            "PDRLangiage": {
+                "ProblemComplaxity": "Risk of complication and/or morbidity or mortality",
+                "NoProblemComplaxity": [
+                    {
+                        "ProblemComplaxity": "• Risk of complication from tests and/or treatments"
+                    },
+                    {
+                        "ProblemComplaxity": "• Based on common medical understanding and language"
+                    },
+                    {
+                        "ProblemComplaxity": "• Risk of forgoing w/u and/or tx (Shared Decision Making)"
+                    },
+                    {
+                        "ProblemComplaxity": "• Risk from social determinants of health"
+                    }
+                ]
+            },
+            "Expanded": false
+        }
+    ]
+}

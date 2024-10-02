@@ -1,0 +1,49 @@
+{
+    "QuickGuide": "Comparing moderate vs high complexity risks",
+    "RiskElements": [
+        {
+            "Condition": "High Complexity Risk Elements",
+            "RiskOption": [
+                {
+                    "OptionCount": "Option 1",
+                    "OptionDescription": "Refusal of debridement"
+                },
+                {
+                    "OptionCount": "Option 2",
+                    "OptionDescription": "Shared Decision Making to pursue or not pursue a minor surgery"
+                },
+                {
+                    "OptionCount": "Option 3",
+                    "OptionDescription": "New prescription recommendation (i.e., oral or topical prescription item)"
+                },
+                {
+                    "OptionCount": "Option 4",
+                    "OptionDescription": "New moderate risk treatment recommendation (i.e.,Multilayer compression)"
+                }
+            ],
+            "Expanded": false
+        },
+        {
+            "Condition": "Moderate Complexity Risk Elements",
+            "RiskOption": [
+                {
+                    "OptionCount": "Option 1",
+                    "OptionDescription": "New IV medication recommendation"
+                },
+                {
+                    "OptionCount": "Option 2",
+                    "OptionDescription": "Acute limb ischemia/gangrene and urgent care needs or decisions"
+                },
+                {
+                    "OptionCount": "Option 3",
+                    "OptionDescription": "Situations that involve discussions of escalation of care (i.e. hospitalization) or deescalation of care"
+                },
+                {
+                    "OptionCount": "Option 4",
+                    "OptionDescription": "Change in condition associated with grave prognosis/end of life (i.e. skin failure,Kennedy ulcers)"
+                }
+            ],
+            "Expanded": false
+        }
+    ]
+}
