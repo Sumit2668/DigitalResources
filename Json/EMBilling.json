@@ -13,7 +13,7 @@
         {
             "Condition": "Low MDM",
             "EMBillData": {
-                "Problem": "2 or more self-limited/minor 1 UnComplicated injury 1 stable (at goal) condition",
+                "Problem": "2 or more self-limited/minor \n1 UnComplicated injury \n1 stable (at goal) condition",
                 "DataReviewed": "2 \"items\" OR Independent historian",
                 "LvlRisk": "Low"
             },
