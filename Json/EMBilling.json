@@ -31,7 +31,7 @@
         {
             "Condition": "High MDM",
             "EMBillData": {
-                "Problem": "Severe xacerbation/progression (deteriorated) Poses threat to life or function",
+                "Problem": "Severe exacerbation/progression (deteriorated) Poses threat to life or function",
                 "DataReviewed": "2 of the 3 groups from Moderate options",
                 "LvlRisk": "High \n-Drugs w/ toxicity monitoring \n-Escalation of level of care \n-DNR or de-escalation decision"
             },
