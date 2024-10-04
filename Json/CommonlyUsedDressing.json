@@ -1,5 +1,5 @@
 {
-    "QuickGuide": "Guid to essential wound care materials",
+    "QuickGuide": "Guide to essential wound care materials",
     "CommonlyUsedDressing": [
         {
             "Condition": "IF WET: Mod-Heavy Draining Wounds - Primary Dressing",
@@ -34,7 +34,7 @@
                     "DressingCategory": "Border gauze",
                     "Exudate": "Mod",
                     "Frequency": "Varies",
-                    "AdditionalInfo": ""
+                    "AdditionalInfo": "N/A"
                 },
                 {
                     "DressingCategory": "Foam",
@@ -65,19 +65,19 @@
                     "DressingCategory": "Honey gel",
                     "Exudate": "Light-mod",
                     "Frequency": "Q 1-2 Day",
-                    "AdditionalInfo": ""
+                    "AdditionalInfo": "N/A"
                 },
                 {
                     "DressingCategory": "Hydrocolloid",
                     "Exudate": "Light-mod",
                     "Frequency": "2-3x/week",
-                    "AdditionalInfo": ""
+                    "AdditionalInfo": "N/A"
                 }
             ],
             "Expanded": false
         },
         {
-            "Condition": "Other Product",
+            "Condition": "Other Products",
             "TreatmentPriority": null,
             "Dressings": [
                 {
@@ -101,13 +101,13 @@
                 {
                     "DressingCategory": "Transparent Film",
                     "Exudate": "DO NOT USE",
-                    "Frequency": "",
+                    "Frequency": "N/A",
                     "AdditionalInfo": "This will tear fragile skin. Most facilities do not stock it."
                 },
                 {
                     "DressingCategory": "Wet to dry",
                     "Exudate": "DO NOT USE",
-                    "Frequency": "",
+                    "Frequency": "N/A",
                     "AdditionalInfo": "Was standard of care in 1970, this is not 1970."
                 }
             ],
