@@ -6,18 +6,21 @@
             "TreatmentPriority": null,
             "Dressings": [
                 {
+                    "IsLast": false,
                     "DressingCategory": "Alginate",
                     "Exudate": "Mod-Heavy",
                     "Frequency": "Q 1-2 Day",
                     "AdditionalInfo": "If sticking, consider decreasing frequency or d/c. Comes in rope or sheet."
                 },
                 {
+                    "IsLast": false,
                     "DressingCategory": "Hydrofiber",
                     "Exudate": "Mod-Heavy",
                     "Frequency": "Q 1-2 Day",
                     "AdditionalInfo": "Sheet (no rope version)"
                 },
                 {
+                    "IsLast": true,
                     "DressingCategory": "Mesalt",
                     "Exudate": "Mod-Heavy",
                     "Frequency": "Q Day",
@@ -31,18 +34,21 @@
             "TreatmentPriority": null,
             "Dressings": [
                 {
+                    "IsLast": false,
                     "DressingCategory": "Border gauze",
                     "Exudate": "Mod",
                     "Frequency": "Varies",
                     "AdditionalInfo": "N/A"
                 },
                 {
+                    "IsLast": false,
                     "DressingCategory": "Foam",
                     "Exudate": "Heavy",
                     "Frequency": "CMS pays 3x/wkly",
                     "AdditionalInfo": "If ordered daily, facility pays for the other four per week. Avoid daily whehever possible."
                 },
                 {
+                    "IsLast": true,
                     "DressingCategory": "Specialty absorptive",
                     "Exudate": "Heavy",
                     "Frequency": "Q Day",
@@ -56,18 +62,21 @@
             "TreatmentPriority": null,
             "Dressings": [
                 {
+                    "IsLast": false,
                     "DressingCategory": "Hydrogel",
                     "Exudate": "Light-mod",
                     "Frequency": "Q 1-2 Day",
                     "AdditionalInfo": "Cover with border gauze or nonstick, can cover with xeroform 3x/wkly."
                 },
                 {
+                    "IsLast": false,
                     "DressingCategory": "Honey gel",
                     "Exudate": "Light-mod",
                     "Frequency": "Q 1-2 Day",
                     "AdditionalInfo": "N/A"
                 },
                 {
+                    "IsLast": true,
                     "DressingCategory": "Hydrocolloid",
                     "Exudate": "Light-mod",
                     "Frequency": "2-3x/week",
@@ -81,30 +90,35 @@
             "TreatmentPriority": null,
             "Dressings": [
                 {
+                    "IsLast": false,
                     "DressingCategory": "Collagenase(Santyl)",
                     "Exudate": "Any",
                     "Frequency": "Q Day",
                     "AdditionalInfo": "Very expensive; use judiciously. On very wet wounds, can coverwith alginate before secondary dressing."
                 },
                 {
+                    "IsLast": false,
                     "DressingCategory": "Collagen",
                     "Exudate": "Any",
                     "Frequency": "Q 2 Day",
                     "AdditionalInfo": "Expensive. Only on granulated beds. Comes in gel, powder, combination w alginate, etc. Best if not changed daily."
                 },
                 {
+                    "IsLast": false,
                     "DressingCategory": "Hydrofera Blue",
                     "Exudate": "Mod-Heavy",
                     "Frequency": "2x/week",
                     "AdditionalInfo": "Expensive. Color turns white when product needs to be changed Tirate change frequency to color."
                 },
                 {
+                    "IsLast": false,
                     "DressingCategory": "Transparent Film",
                     "Exudate": "DO NOT USE",
                     "Frequency": "N/A",
                     "AdditionalInfo": "This will tear fragile skin. Most facilities do not stock it."
                 },
                 {
+                    "IsLast": true,
                     "DressingCategory": "Wet to dry",
                     "Exudate": "DO NOT USE",
                     "Frequency": "N/A",
